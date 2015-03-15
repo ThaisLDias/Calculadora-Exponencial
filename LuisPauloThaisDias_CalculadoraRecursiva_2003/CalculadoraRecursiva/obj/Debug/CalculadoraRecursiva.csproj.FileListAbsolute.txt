@@ -1,0 +1,18 @@
+C:\Users\luis.silva\Desktop\CalculadoraRecursiva\CalculadoraRecursiva\bin\Debug\CalculadoraRecursiva.exe.config
+C:\Users\luis.silva\Desktop\CalculadoraRecursiva\CalculadoraRecursiva\bin\Debug\CalculadoraRecursiva.exe
+C:\Users\luis.silva\Desktop\CalculadoraRecursiva\CalculadoraRecursiva\bin\Debug\CalculadoraRecursiva.pdb
+C:\Users\luis.silva\Desktop\CalculadoraRecursiva\CalculadoraRecursiva\obj\Debug\CalculadoraRecursiva.csprojResolveAssemblyReference.cache
+C:\Users\luis.silva\Desktop\CalculadoraRecursiva\CalculadoraRecursiva\obj\Debug\CalculadoraRecursiva.Form1.resources
+C:\Users\luis.silva\Desktop\CalculadoraRecursiva\CalculadoraRecursiva\obj\Debug\CalculadoraRecursiva.Properties.Resources.resources
+C:\Users\luis.silva\Desktop\CalculadoraRecursiva\CalculadoraRecursiva\obj\Debug\CalculadoraRecursiva.csproj.GenerateResource.Cache
+C:\Users\luis.silva\Desktop\CalculadoraRecursiva\CalculadoraRecursiva\obj\Debug\CalculadoraRecursiva.exe
+C:\Users\luis.silva\Desktop\CalculadoraRecursiva\CalculadoraRecursiva\obj\Debug\CalculadoraRecursiva.pdb
+F:\Microsoft Visual Studio\CalculadoraRecursiva\CalculadoraRecursiva\bin\Debug\CalculadoraRecursiva.exe.config
+F:\Microsoft Visual Studio\CalculadoraRecursiva\CalculadoraRecursiva\obj\Debug\CalculadoraRecursiva.exe
+F:\Microsoft Visual Studio\CalculadoraRecursiva\CalculadoraRecursiva\obj\Debug\CalculadoraRecursiva.pdb
+F:\Microsoft Visual Studio\CalculadoraRecursiva\CalculadoraRecursiva\obj\Debug\CalculadoraRecursiva.csprojResolveAssemblyReference.cache
+F:\Microsoft Visual Studio\CalculadoraRecursiva\CalculadoraRecursiva\obj\Debug\CalculadoraRecursiva.Form1.resources
+F:\Microsoft Visual Studio\CalculadoraRecursiva\CalculadoraRecursiva\obj\Debug\CalculadoraRecursiva.Properties.Resources.resources
+F:\Microsoft Visual Studio\CalculadoraRecursiva\CalculadoraRecursiva\obj\Debug\CalculadoraRecursiva.csproj.GenerateResource.Cache
+F:\Microsoft Visual Studio\CalculadoraRecursiva\CalculadoraRecursiva\bin\Debug\CalculadoraRecursiva.exe
+F:\Microsoft Visual Studio\CalculadoraRecursiva\CalculadoraRecursiva\bin\Debug\CalculadoraRecursiva.pdb
